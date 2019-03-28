@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1477289327 source:d:\se\programs\2nd smester\1-projects\working_platform\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+
+1478172346 source:d:\se\programs\1-projects\working_platform\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1478165382 d:\se\programs\1-projects\working_platform\snik.h
+
+1478194114 source:d:\se\programs\1-projects\working_platform\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1495445856 source:d:\se\programs\1-projects\snake working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1495644222 d:\se\programs\1-projects\snake working\snik.h
+
+1495445579 source:d:\se\programs\1-projects\snake working\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1495445856 source:e:\se\programs\1-projects\snake working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1495644222 e:\se\programs\1-projects\snake working\snik.h
+
+1497417338 source:e:\se\programs\1-projects\snake working\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1499313329 source:c:\users\ali\documents\snake working\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1499279687 c:\users\ali\documents\snake working\snik.h
+
+1499314290 source:c:\users\ali\documents\snake working\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1499315244 source:e:\se\programs\1-projects\snake 1.0\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1499279687 e:\se\programs\1-projects\snake 1.0\snik.h
+
+1499357901 source:e:\se\programs\1-projects\snake 1.0\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1515046594 source:e:\crap\study data\se\programs\1-projects\snake 1.0\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1515046595 e:\crap\study data\se\programs\1-projects\snake 1.0\snik.h
+
+1515046595 source:e:\crap\study data\se\programs\1-projects\snake 1.0\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
