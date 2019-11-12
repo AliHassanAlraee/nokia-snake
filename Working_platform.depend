@@ -114,3 +114,21 @@
 	<stdlib.h>
 	"snik.h"
 
+1573410345 source:e:\focus\github repo\nokia-snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
+1573410345 e:\focus\github repo\nokia-snake\snik.h
+
+1573410345 source:e:\focus\github repo\nokia-snake\snik.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	"snik.h"
+
